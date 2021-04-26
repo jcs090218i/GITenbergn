@@ -1,0 +1,31 @@
+_repo: Narrative-of-the-Life-of-J.D.-Green-a-Runaway-Slave-from-KentuckyContaining-an-Account-of-His__15128
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, J. D. (Jacob D.)
+    alias: Green, Jacob D.
+    birthdate: 1813
+    gutenberg_agent_id: '5870'
+    url: http://www.gutenberg.org/2009/agents/5870
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcsh 'Slaves -- Kentucky -- Social conditions -- 19th century'
+- !lcsh 'Slavery -- Kentucky -- History -- 19th century'
+title: 'Narrative of the Life of J.D. Green, a Runaway Slave, from Kentucky
+
+  Containing an Account of His Three Escapes, in 1839, 1846, and 1848'
+url: http://www.gutenberg.org/ebooks/15128
